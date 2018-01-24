@@ -11,6 +11,7 @@
 *   《[深入理解Linux内核](https://www.amazon.cn/gp/product/B0011F5RYM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F5RYM&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入Linux内核架构](https://www.amazon.cn/gp/product/B003QN7J7U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B003QN7J7U&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[TCP/IP详解 卷1：协议](https://www.amazon.cn/gp/product/B00116OTVS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00116OTVS&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Linux就该这么学](https://www.amazon.cn/dp/B0776K3ZXC)》
 *   《[Linux系统编程（第2版）](https://www.amazon.cn/gp/product/B00JUM2ML4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00JUM2ML4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Linux内核设计与实现（第3版）](https://www.amazon.cn/gp/product/B004X3Z3D4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004X3Z3D4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入理解计算机系统（原书第2版）](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004BJ18KM&amp;linkCode=as2&amp;tag=vastwork-23)》
